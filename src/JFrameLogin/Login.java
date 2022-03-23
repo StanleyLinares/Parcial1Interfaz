@@ -25,6 +25,7 @@ public class Login extends javax.swing.JFrame {
     /**
      * Creates new form Login
      */
+    
 //comentario de prueba,guarda cambios repositorio
     public Login() {
         initComponents();
@@ -205,7 +206,6 @@ public class Login extends javax.swing.JFrame {
 
         passtxt.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         passtxt.setBorder(null);
-        passtxt.setEchoChar('\u0000');
         passtxt.addFocusListener(new java.awt.event.FocusAdapter() {
             public void focusGained(java.awt.event.FocusEvent evt) {
                 passtxtFocusGained(evt);

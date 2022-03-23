@@ -25,7 +25,7 @@ public class Login extends javax.swing.JFrame {
     /**
      * Creates new form Login
      */
-
+//comentario de prueba,guarda cambios repositorio
     public Login() {
         initComponents();
 
